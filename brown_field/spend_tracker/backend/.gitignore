@@ -1,0 +1,5 @@
+spend_tracker.db
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
